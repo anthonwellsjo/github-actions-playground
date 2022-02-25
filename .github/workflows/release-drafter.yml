@@ -4,5 +4,5 @@ template: |
 
 on:
   merge:
-    branches: [main, 'milestone/**']
+    branches: [main]
   $CHANGES
