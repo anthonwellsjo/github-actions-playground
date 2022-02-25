@@ -3,6 +3,6 @@ template: |
 
 
 on:
-  pull_request:
+  merge:
     branches: [main, 'milestone/**']
   $CHANGES
