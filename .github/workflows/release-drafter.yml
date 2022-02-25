@@ -3,6 +3,6 @@ template: |
 
 
 on:
-  merge:
+  push:
     branches: 
       - main
